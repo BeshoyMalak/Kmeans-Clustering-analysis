@@ -1,0 +1,11 @@
+
+Total O/S: Total loan amount
+TENOR_@Booking: Duration in months for the loan
+Loan Term: Duration in years
+Booking Date: The date on which the loan data is entered
+Maturity Date: the date on which a borrower's final loan payment is due.
+DPD: Days past dues, a metric that indicates whether a customer have been consistent in his/her repayments and if he/she have missed any, how many instalments did the customer miss and by how many days.
+DOB: Date of Birth of the client
+Age of the client.
+Gender of the client.
+Customer Segment: classification of the customer based on the type of employment.
